@@ -1,5 +1,4 @@
 ## João Pedro Guimarães.
-
 - Um dev tentando fazer algo depois da rotina de trabalho.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pethoriano&layout=compact)](https://github.com/pethorian)
